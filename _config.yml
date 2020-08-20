@@ -19,7 +19,7 @@ avatar: /images/android-icon-192x192.png
 footer-links:
   dribbble:
   email: ansofive+ke8hmv@gmail.com
-  facebook:
+  facebook: dennis.dunn.581
   flickr:
   github: ke8hmv
   instagram:
@@ -30,6 +30,7 @@ footer-links:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
+  docker: dennisdunn
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account

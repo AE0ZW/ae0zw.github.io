@@ -73,7 +73,7 @@ is on the right.
 - [Direwolf - APRS Box Documentation](http://elafargue.github.io/aprs-box/direwolf/)
 - [direwolf/Successful-APRS-IGate-Operation.pdf at master · wb2osz/direwolf](https://github.com/wb2osz/direwolf/blob/master/doc/Successful-APRS-IGate-Operation.pdf)
 - [Converting a CM108 USB fob for amateur radio use](https://www.marrold.co.uk/2018/04/converting-cm108-usb-fob-for-amateur.html)
-- [LTV-847C Lite-On Inc. | Isolators | DigiKey](https://www.digikey.com/en/products/detail/liteon/LTV-847C/1711628)
+- [LTV-847C Datasheet](https://www.digikey.com/en/products/detail/liteon/LTV-847C/1711628)
 - [A Simplified USB Sound FOB Modification](https://hamvoip.org/hamradio/usb_fob_simple_modification/)
 - [How To Modify A CM108 for Allstar latest version - allstar setup.com %](https://allstarsetup.com/how-to-modify-a-cm108-for-allstar/)
 - [Modifying the SYBA UAUD CM119 based USB audio adapter for use as Asterisk USB radio interface](http://www.repeater-builder.com/projects/fob/syba-small-fob.html)

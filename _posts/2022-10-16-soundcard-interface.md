@@ -7,8 +7,8 @@ running direwolf. Connections to the soundcard and radio are through breakout
 cables so that the interface can be configured for different radios and
 soundcards.
 
-![alt text](soundcard-interface/hat-top.jpg "component side")
-![alt text](soundcard-interface/hat-bottom.jpg "wiring side")
+![alt text](/assets/hat-top.jpg "component side")
+![alt text](/assets/hat-bottom.jpg "wiring side")
 
 
 ## Screw Terminal Connections
@@ -41,7 +41,7 @@ is on the right.
 - Ring
 - Shield, Ground
 
-![alt text](soundcard-interface/kenwood-breakout.jpg "K1 Connector")
+![alt text](/assets/kenwood-breakout.jpg "K1 Connector")
 
 ### Soundcard Breakout Cable
 
@@ -52,7 +52,7 @@ is on the right.
 - Ring - Ground
 - Shield - Mic
 
-![alt text](soundcard-interface/audio-breakout.jpg "TRRS Connector")
+![alt text](/assets/audio-breakout.jpg "TRRS Connector")
 
 ## Direwolf Configuration
 
@@ -61,8 +61,8 @@ is on the right.
 
 ## Schematics
 
-- [Schematic](soundcard-interface/soundcard-interface_schem.png)
-- [Fritzing](soundcard-interface/soundcard-interface.fzz)
+- [Schematic](/assets/soundcard-interface_schem.png)
+- [Fritzing](/assets/soundcard-interface.fzz)
 
 ## Resources
 

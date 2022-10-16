@@ -13,22 +13,21 @@ soundcards.
 
 ## Screw Terminal Connections
 
-Orient the board so that the screw terminals are on the left, terminal #1 is at the top and terminal #7
-is on the bottom.
+Orient the board so that the screw terminals are on top as in the picture, terminal #1 is on left and terminal #7
+is on the right.
 
-1. Mic+ (to radio)
-1. Left channel (from sound card)
 
-1. Mic (to sound card)
-1. Spkr+ (from radio)
-
-1. Gnd (from soundcard)
-1. Gnd (from radio)
 1. PTT (from radio)
+1. Gnd (from radio)
+1. Gnd (from soundcard)
+1. Spkr+ (from radio)
+1. Mic (to sound card)
+1. Left channel (from sound card)
+1. Mic+ (to radio)
 
 ## Breakout Cables
 
-### Radio (Kenwood, Baofeng, etc)
+### Radio Breakout Cable (Kenwood, Baofeng, etc)
 
 3.5mm TRS Connector
 
@@ -44,7 +43,7 @@ is on the bottom.
 
 ![alt text](soundcard-interface/kenwood-breakout.jpg "K1 Connector")
 
-### Soundcard
+### Soundcard Breakout Cable
 
 3.5mm TRRS Connector
 
@@ -59,6 +58,11 @@ is on the bottom.
 
 - PTT is on GPIO 13
 - DCD is on GPIO 4
+
+## Schematics
+
+- [Schematic](soundcard-interface/soundcard-interface_schem.png)
+- [Fritzing](soundcard-interface/soundcard-interface.fzz)
 
 ## Resources
 

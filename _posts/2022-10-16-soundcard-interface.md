@@ -22,8 +22,8 @@ is on the right.
 1. Gnd (from soundcard)
 1. Spkr+ (from radio)
 1. Mic (to sound card)
-1. Left channel (from sound card)
 1. Mic+ (to radio)
+1. Left channel (from sound card)
 
 ## Breakout Cables
 

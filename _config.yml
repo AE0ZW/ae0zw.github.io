@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: KE8HMV
+name: AE0TR
 
 # Short bio or description (displayed in the header)
 description:
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/ke8hmv-icon.png
+avatar: /images/aite-icon.png
 
 #
 # Flags below are optional
@@ -18,10 +18,10 @@ avatar: /images/ke8hmv-icon.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: ansofive+ke8hmv@gmail.com
+  email: ansofive+ae0tr@gmail.com
   facebook: dennis.dunn.581
   flickr:
-  github: ke8hmv
+  github: ae0tr
   instagram:
   linkedin:
   pinterest:
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://ke8hmv.github.io
+url: https://ae0tr.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)

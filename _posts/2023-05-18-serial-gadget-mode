@@ -12,3 +12,6 @@ title: 'Enabling Serial Gadget Mode on a Raspberry PI'
 * Run ___sudo ln -s ../getty@.service ./getty@ttyGS0.service
 * umonunt the partiions and boot from the card.
 * In a terminal, run ___picocom /dev/ttyACM0___
+
+### References
+- https://www.tal.org/tutorials/setup-raspberry-pi-headless-use-usb-serial-console

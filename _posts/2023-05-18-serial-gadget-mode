@@ -9,7 +9,7 @@ title: 'Enabling Serial Gadget Mode on a Raspberry PI'
 * Add ***dtoverlay=dwc2*** to the end of BOOT/config.txt
 * Add ***modules-load=dwc2,g_serial*** after ___rootwait__ in BOOT/cmdline.txt
 * In a terminal, cd to ROOT/lib/systemd/system/getty.target.wants
-* Run ___sudo ln -s ../getty@.service ./getty@ttyGS0.service
+* Run ___sudo ln -s ../getty@.service ./getty@ttyGS0.service___
 * umonunt the partiions and boot from the card.
 * In a terminal, run ___picocom /dev/ttyACM0___
 

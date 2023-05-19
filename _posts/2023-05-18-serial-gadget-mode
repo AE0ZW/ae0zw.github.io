@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Enabling Serial Gadget Mode on a Raspberry PI'
+title: Enabling Serial Gadget Mode on a Raspberry PI
 ---
 
 * Write a fresh Raspberry PI OS Lite to your micro-sd.

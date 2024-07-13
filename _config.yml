@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: AE0TR
+name: AE0 Zulu Whiskey
 
 # Short bio or description (displayed in the header)
 description:
@@ -18,7 +18,7 @@ avatar: /images/ke8hmv-icon.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: ansofive+ae0tr@gmail.com
+  email: ansofive+ae0zw@gmail.com
   facebook: dennis.dunn.581
   flickr:
   github: ae0tr
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://ae0tr.github.io
+url: https://ae0zw.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
